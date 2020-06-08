@@ -13,6 +13,7 @@
 		9EA2CF55248EFEA900BB8E97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2CF53248EFEA900BB8E97 /* Main.storyboard */; };
 		9EA2CF57248EFEAC00BB8E97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2CF56248EFEAC00BB8E97 /* Assets.xcassets */; };
 		9EA2CF5A248EFEAC00BB8E97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2CF58248EFEAC00BB8E97 /* LaunchScreen.storyboard */; };
+		9EA2CF62248F01CA00BB8E97 /* Aydınlanma Ses Efekti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2CF61248F01CA00BB8E97 /* Aydınlanma Ses Efekti.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9EA2CF56248EFEAC00BB8E97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9EA2CF59248EFEAC00BB8E97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EA2CF5B248EFEAC00BB8E97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EA2CF61248F01CA00BB8E97 /* Aydınlanma Ses Efekti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Aydınlanma Ses Efekti.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9EA2CF4F248EFEA900BB8E97 /* SceneDelegate.swift */,
 				9EA2CF51248EFEA900BB8E97 /* ViewController.swift */,
 				9EA2CF53248EFEA900BB8E97 /* Main.storyboard */,
+				9EA2CF61248F01CA00BB8E97 /* Aydınlanma Ses Efekti.mp3 */,
 				9EA2CF56248EFEAC00BB8E97 /* Assets.xcassets */,
 				9EA2CF58248EFEAC00BB8E97 /* LaunchScreen.storyboard */,
 				9EA2CF5B248EFEAC00BB8E97 /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EA2CF62248F01CA00BB8E97 /* Aydınlanma Ses Efekti.mp3 in Resources */,
 				9EA2CF5A248EFEAC00BB8E97 /* LaunchScreen.storyboard in Resources */,
 				9EA2CF57248EFEAC00BB8E97 /* Assets.xcassets in Resources */,
 				9EA2CF55248EFEA900BB8E97 /* Main.storyboard in Resources */,
